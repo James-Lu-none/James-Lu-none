@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Lu</h1>
-<h3 align="center">A student from NTUT</h3>
+<h3 align="center">A student from NYCU</h3>
 
 - 🌱 I’m currently learning **cloud computing** and **cyber security**
 
