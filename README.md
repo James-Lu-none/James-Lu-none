@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Lu</h1>
-<h3 align="center">A student from <del>NTUT</del> NYCU</h3>
-
-- 🌱 I’m currently learning **cloud computing** and **cyber security**
+<h3 align="center">A student from NYCU</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=james-lu-none&show_icons=true&locale=en&layout=compact" alt="james-lu-none" /></p>
 
